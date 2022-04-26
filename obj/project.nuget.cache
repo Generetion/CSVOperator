@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zRqOEV8RJ4AYZYXBUuZ5fehx/+F5MR+z77S3oV31p7C+EudVstogQYhRO15wkFtuZcV1/W41kYY8V6Swhkl35w==",
+  "success": true,
+  "projectFilePath": "/Users/gensun/Personal/interview/interview.csproj",
+  "expectedPackageFiles": [
+    "/Users/gensun/.nuget/packages/csvhelper/27.2.1/csvhelper.27.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

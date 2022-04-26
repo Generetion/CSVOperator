@@ -1,0 +1,17 @@
+/Users/gensun/Personal/interview/bin/Debug/net6.0/interview
+/Users/gensun/Personal/interview/bin/Debug/net6.0/interview.deps.json
+/Users/gensun/Personal/interview/bin/Debug/net6.0/interview.runtimeconfig.json
+/Users/gensun/Personal/interview/bin/Debug/net6.0/interview.dll
+/Users/gensun/Personal/interview/bin/Debug/net6.0/interview.pdb
+/Users/gensun/Personal/interview/bin/Debug/net6.0/CsvHelper.dll
+/Users/gensun/Personal/interview/obj/Debug/net6.0/interview.csproj.AssemblyReference.cache
+/Users/gensun/Personal/interview/obj/Debug/net6.0/interview.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gensun/Personal/interview/obj/Debug/net6.0/interview.AssemblyInfoInputs.cache
+/Users/gensun/Personal/interview/obj/Debug/net6.0/interview.AssemblyInfo.cs
+/Users/gensun/Personal/interview/obj/Debug/net6.0/interview.csproj.CoreCompileInputs.cache
+/Users/gensun/Personal/interview/obj/Debug/net6.0/interview.csproj.CopyComplete
+/Users/gensun/Personal/interview/obj/Debug/net6.0/interview.dll
+/Users/gensun/Personal/interview/obj/Debug/net6.0/refint/interview.dll
+/Users/gensun/Personal/interview/obj/Debug/net6.0/interview.pdb
+/Users/gensun/Personal/interview/obj/Debug/net6.0/interview.genruntimeconfig.cache
+/Users/gensun/Personal/interview/obj/Debug/net6.0/ref/interview.dll
