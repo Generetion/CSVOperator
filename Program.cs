@@ -91,7 +91,7 @@ namespace Interview
                     }
                 }
             }
-            using (var writer = new StreamWriter("shaiel.csv")) //should be a user inputo or config file containing the file name, but for testing pourpuse just change the name
+            using (var writer = new StreamWriter("Result.csv")) //should be a user inputo or config file containing the file name, but for testing pourpuse just change the name
             using (var csv = new CsvWriter(writer, CultureInfo.InvariantCulture))
             {
                 csv.WriteRecords(basicFormatList);
